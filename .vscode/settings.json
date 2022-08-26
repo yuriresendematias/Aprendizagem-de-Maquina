@@ -3,9 +3,13 @@
     "window.autoDetectColorScheme": false,
     "window.closeWhenEmpty": false,
     "window.commandCenter": false,
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     "window.zoomLevel": 1
 =======
     "window.zoomLevel": 0
 >>>>>>> Stashed changes
+=======
+    "window.zoomLevel": 0
+>>>>>>> master
 }
